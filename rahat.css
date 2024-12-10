@@ -161,3 +161,7 @@ img.rahat {
   width: 70px;
   height: 70px;
 }
+img.gall-rahat {
+  width: auto !important;
+  height: 85% !important;
+}

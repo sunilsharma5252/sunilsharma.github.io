@@ -55,6 +55,7 @@
       }
       @media screen and (min-width:1200px) {
           width: 50%;
+          height: -webkit-fill-available;
       }
     }
   }
@@ -160,8 +161,4 @@
 img.rahat {
   width: 70px;
   height: 70px;
-}
-img.gall-rahat {
-  width: auto !important;
-  height: 85% !important;
 }

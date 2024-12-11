@@ -6293,7 +6293,7 @@ footer::after {
 @media only screen and (max-width: 480px) {
 	/* Banner */
 	.banner-style-one-items h2 {
-		font-size: 28px;
+		font-size: 22px;
 		padding-bottom: 5px;
 		padding-top: 2px;
 	}

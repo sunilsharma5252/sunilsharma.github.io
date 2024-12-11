@@ -3464,7 +3464,7 @@ nav.navbar.validnavs .navbar-collapse.collapse button {
 }
 
 nav.navbar.validnavs .navbar-collapse.collapse button i {
-	font-weight: 400;
+	font-weight: 600;
 	font-size: 15px;
 	margin: 0;
 }
@@ -3552,6 +3552,7 @@ nav.navbar.validnavs .navbar-collapse.collapse button i {
 	nav.navbar.validnavs .navbar-collapse.collapse.show img {
 		display: inline-block;
 		height: 50px;
+		width: 70%;
 	}
 
 	nav.navbar.validnavs .navbar-collapse.collapse img {
